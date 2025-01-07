@@ -1,10 +1,10 @@
 prepare:
-  age_threshold: 90
+  age_threshold: 80
 
 
 process:
   test_size: 0.2
-  seed: 45
+  seed: 40
 
 
 train:
